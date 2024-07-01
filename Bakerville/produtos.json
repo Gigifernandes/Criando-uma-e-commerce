@@ -1,0 +1,45 @@
+[
+    {
+        "id": "6679a781e92be",
+        "nome": "Bolinho de Amora",
+        "descricao": "Experimente o nosso delicioso Bolinho de Amora e deixe-se encantar pelo sabor aut\u00eantico e a textura irresist\u00edvel. Adicione agora ao seu carrinho e desfrute de um pedacinho de felicidade em forma de bolinho.",
+        "preco": "4.50",
+        "imagem": "https:\/\/lh3.googleusercontent.com\/pw\/AP1GczMnFwTTgq7D4S1OJ0ZhjwJ9_Rk16-kKw-qi514HMTR6nXWIPPTiJQwgZGK1KmvfXv5uhQ2rWF2ZUnHT7ef4j0ICU97t0WhVJD2eg2ct4jkplr-sT3JQUvuTcTmHF7DsXVd9v5yQCl3UZiHbp2R77xi64w=w630-h805-s-no-gm?authuser=0"
+    },
+    {
+        "id": "6679ac561bfa1",
+        "nome": "Cookie de Menta",
+        "descricao": "Sinta a refresc\u00e2ncia e o sabor intenso em cada mordida com nosso Cookie de Menta. Com peda\u00e7os de chocolate amargo e uma leve ess\u00eancia de menta, este cookie \u00e9 perfeito para quem adora um toque refrescante no seu doce favorito.",
+        "preco": "4.99",
+        "imagem": "https:\/\/lh3.googleusercontent.com\/pw\/AP1GczPPfKVoke-sbNgXEYB7Mi9nsWmKIluX5VB35AnkCJ9xbvc-gs05U9Y-iMxjf3FZgyDg49vIBa-NmU57DXHTY2FmystksDhjVUe0d4wskEGps8gJRbY_8hZOAvHytv5vwcrLKOhyodfLRPIV-Pad4hHhYw=w625-h802-s-no-gm?authuser=0"
+    },
+    {
+        "id": "6679ad17d52b5",
+        "nome": "Bolo de cereja",
+        "descricao": "Experimente o sabor vibrante e a textura macia do nosso Bolo de Cereja. Feito com cerejas frescas e uma massa leve, este bolo \u00e9 a escolha perfeita para qualquer ocasi\u00e3o especial ou para um momento de indulg\u00eancia pessoal.",
+        "preco": "15.99",
+        "imagem": "https:\/\/lh3.googleusercontent.com\/pw\/AP1GczPAM-vzmhEPeFeFYBu8WoT09rj3xsg_O9Rj-Whtart8qK-Of0MbHJ7oyIcHTDYKpVEtQR1j7kRDBaQjEW_RTrDw-EkjS3sJA4b8S1QUBUWGeSno2NvQ_CRc8oeqdpzZb7rLPewj9-SOpFlAcbdEFmeyXw=w637-h804-s-no-gm?authuser=0"
+    },
+    
+    {
+        "id": "667ebd1e110b6",
+        "nome": "Cupcake Sabores",
+        "descricao": "Nossos Cupcakes s\u00e3o uma del\u00edcia para os olhos e para o paladar. Dispon\u00edveis em uma variedade de sabores e coberturas, cada cupcake \u00e9 decorado com perfei\u00e7\u00e3o e feito com os melhores ingredientes, proporcionando uma experi\u00eancia doce inesquec\u00edvel.",
+        "preco": "9.99",
+        "imagem": "https:\/\/lh3.googleusercontent.com\/pw\/AP1GczPJEmDr8N-2ASSkAqmUqVyStMvf8LywhDN1f8ILyqHg3OcTp7h11dlfguvuDMv6DkOUDaM4kp2kvakzyuAmdyhqsVqnKu3Gt0pJIEpdF5XIgmMbeqhQD5SRZDRuDjeYIA4w6j5aXyuVIn0GLrLHu-D-Wg=w443-h708-s-no-gm?authuser=0"
+    },
+    {
+        "id": "667ebd57d4785",
+        "nome": "Biscoito de Chocolate",
+        "descricao": "Desfrute da croc\u00e2ncia e do sabor rico do nosso Biscoito de Chocolate. Feito com chocolate de alta qualidade e assado at\u00e9 a perfei\u00e7\u00e3o, cada biscoito \u00e9 uma combina\u00e7\u00e3o irresist\u00edvel de crocante e derretido na boca.",
+        "preco": "7.99",
+        "imagem": "https:\/\/lh3.googleusercontent.com\/pw\/AP1GczMNLWRMCi7ir-CzzHdK7DWfdCG1vWREmMevYHaU2X94fuaaymUYDCwkQxhJcXjgu0Tv07cbNz7E2Q1t7eiXqRH4ck0jFzjsYqAAbchasa-5FPVIC-UKyXOPT86ZZL1Y9t_mg2F-Zhuy4lSGClrlO94Mbg=w490-h782-s-no-gm?authuser=0"
+    },
+    {
+        "id": "667ebd7f75041",
+        "nome": "Floresta Negra",
+        "descricao": "Delicie-se com a sofistica\u00e7\u00e3o do nosso Cupcake Floresta Negra. Com camadas de chocolate, chantilly e cerejas frescas, este cupcake \u00e9 uma vers\u00e3o port\u00e1til e deliciosa do cl\u00e1ssico bolo alem\u00e3o, ideal para qualquer celebra\u00e7\u00e3o.",
+        "preco": "12.99",
+        "imagem": "https:\/\/lh3.googleusercontent.com\/pw\/AP1GczNRrgyQO7jCG8vkPpMk_Hsn4LzsCpZrbF1Lc19FR5vMF27cM0bOmIsGUj75pKMm3EyHhtx5Igtg1ScJr4LD9HdjOO4O72S5d0MrcgjDZhJeoYlDK1MfE0_q4xhbACNV-snk4OtJaW4ZidARr_F-DESm9w=w728-h911-s-no-gm?authuser=0"
+    }
+]

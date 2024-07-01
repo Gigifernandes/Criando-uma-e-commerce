@@ -1,0 +1,30 @@
+footer {
+    font-size: 20px;
+    background-color: #1D4A3E; /* cor de fundo do rodapé */
+    padding: 40px; /* espaçamento interno do rodapé */
+    text-align: center; /* alinhamento do texto no rodapé */
+    color: #ffffff; /* cor do texto no rodapé */
+  }
+  
+  footer ul {
+    
+    list-style: none; /* remove a formatação de lista */
+    margin: 0; /* remove a margem */
+    padding: 0; /* remove a padding */
+  }
+  
+  footer li {
+    margin-right: 60px; /* espaçamento entre os itens da lista */
+  }
+  footer p{
+    color: #ffffff;
+  }
+  
+  footer a {
+    color: #ffffff; /* cor dos links no rodapé */
+    text-decoration: none; /* remove a formatação de link */
+  }
+  
+  footer a:hover {
+    color: #ffffff; /* cor dos links no rodapé quando hover */
+  }

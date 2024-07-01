@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&display=swap');
+
+
+body {
+    font-family: 'Darker Grotesque', sans-serif; 
+    font-weight: 400; 
+
+    background-color: #F8F4EC;
+}
+
+
+nav{
+    text-align: center;
+    max-height: 90px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0; 
+    margin: 0;
+    width: 100%;
+    height: 10%;
+    background-color: #1D4A3E;
+}
+
+nav ul {
+    margin-left: 0;
+    list-style-type: none;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+nav ul li { 
+    text-decoration: none;
+    margin: 0 1rem;
+    margin-top: 60px;
+
+}
+nav ul li a { 
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 0.3rem 0.1rem;
+    font-size: 15px;
+    text-decoration: none;
+    
+}
+
+nav ul li a:hover {
+    background-color:#1D4A3E;
+    color: #ffffff; /* cor dos links no rodapé quando hover */
+    
+}
+
+main {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #F8F4EC;
+}
+
+h1, h2 {
+    font-family: 'Darker Grotesque', sans-serif;
+    font-weight: 700; /* bold weight */
+    color: #666d72;
+    text-align: center;
+}
+
+
+
+.produto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative; /* adicionado */
+}
+
+.produto img {
+    width: 80%;
+    height: 100%;
+    object-fit: cover;
+    transition: 0.1s;
+}
+
+.produto img:hover {
+    filter: blur(2px);
+    cursor: pointer;
+}
+
+.produto .ver-mais {
+    position: absolute; /* adicionado */
+    top: 30%; /* ajustado */
+    left: 50%; /* ajustado */
+    transform: translateX(-50%); /* ajustado */
+    background-color: #1D4A3E;
+    color: #fff;
+    padding: 10px;
+    border-radius: 100px;
+    font-size: 20px;
+    display: none; /* adicionado */
+}
+.btn-ver-todos:hover{
+    color: #fff;
+}
+
+.produto:hover .ver-mais {
+    display: block;
+}
+
+.produto h2 {
+    font-size: 24px; /* increase font size of h2 elements inside.produto class */
+    color: #000000;
+    margin-top: 20px; /* adicionei esse estilo */
+    text-align: center;
+}
+
+.produto p {
+    color: #000000;
+}
+
+
+
+.btn-ver-todos {
+    width: 20%;
+    height: 80%;
+    display: block;
+    text-align: center;
+    margin: 2rem auto;
+    padding: 0.5rem 2rem;
+    background-color: #1D4A3E;
+    color: white;
+    border-radius: 40px;
+    text-decoration: none;
+}
+
+.btn-ver-todos:hover {
+    background-color: #1D4A3E;
+}
+
+.logo img {
+    width: 80px;
+    height: 75px ;
+    margin-top: 20px;
+    margin-left: 140px;
+
+}
+
+.logo2 img {
+    width: 200px;
+    height: 50px;
+    margin-top: 35px;
+    margin-right: 90px;
+
+}
+.carousel-item img {
+    max-width: 100%;
+    height: 80%;
+}
+
+
+.preco {
+    font-weight: bolder;
+    font-size: 19px;
+}
+.carrinho img{
+    width: 40px;
+    height: 40px;
+    margin-left: 90px;
+    margin-top: 45px;
+}
+
+.user img{
+    width: 40px;
+    height: 40px;
+    margin-left: 0;
+    margin-top: 45px;
+}
+#features ul {
+    margin: 50px;
+    padding: 40px;
+  }
+  
+  #features li {
+    margin-bottom: 10px;
+  }
+  #features p {
+    margin: 50px;
+    padding: 20px;
+  }
+  #doceria p{
+    margin: 50px;
+    padding: 20px;
+  }
+  
+
+  .bt img{
+    width: 90px;
+    height: 40px;
+    margin-left: 0;
+    margin-top: 45px;
+}

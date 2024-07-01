@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&display=swap');
+
+
+input[type="text"],
+input[type="number"],
+input[type="url"]{
+    height: 40px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.voltar{
+  padding: 0.5rem 2rem;
+  border: none;
+  border-radius: 2rem;
+  cursor: pointer;
+  font-size: 20px;
+  background-color:  #1D4A3E;
+  color:  #F8F4EC;
+  text-decoration: none;
+  font-family: 'Darker Grotesque';
+}
+  
+.h1 {
+    font-family: "Trenda";
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+    color: #000000;
+}
+.b_cadastrar {
+  padding: 0.5rem 2rem;
+  border: none;
+  border-radius: 2rem;
+  cursor: pointer;
+  font-size: 20px;
+  background-color:  #1D4A3E;
+  color:  #F8F4EC;
+  text-decoration: none;
+  font-family: 'Darker Grotesque';
+}
+
+.formulario {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+main {
+  font-family: 'Darker Grotesque', sans-serif;
+  margin-left: 27%;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  background-color:  #ffffff;
+  width: 40%;
+  height: 60%;
+  overflow: hidden;
+  border-radius: 15px;
+  box-shadow: 4px 4px 36px rgba(0, 0, 0, 0.27);
+}
